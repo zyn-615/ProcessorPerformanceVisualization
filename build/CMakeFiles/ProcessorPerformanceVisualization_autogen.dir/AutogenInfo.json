@@ -163,7 +163,15 @@
 	"CMAKE_SOURCE_DIR" : "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization",
 	"DEP_FILE" : "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "ProcessorPerformanceVisualization_autogen/timestamp",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/mainwindow.h",
+			"MU",
+			"FKWUBUMHKV/moc_mainwindow.cpp",
+			null
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/include",
 	"MOC_COMPILATION_FILE" : "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp",
@@ -224,6 +232,11 @@
 	[
 		[
 			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/mainwindow.cpp",
 			"MU",
 			null
 		]

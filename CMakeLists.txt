@@ -39,6 +39,7 @@ endif()
 # Add your source files
 add_executable(ProcessorPerformanceVisualization # Should match the project name or be your desired executable name
     main/main.cpp
+    main/mainwindow.cpp
     # If you add more .cpp files, list them here
 )
 

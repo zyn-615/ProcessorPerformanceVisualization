@@ -6,6 +6,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o.d"
   "CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o"
   "CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o.d"
+  "CMakeFiles/ProcessorPerformanceVisualization.dir/main/mainwindow.cpp.o"
+  "CMakeFiles/ProcessorPerformanceVisualization.dir/main/mainwindow.cpp.o.d"
   "ProcessorPerformanceVisualization"
   "ProcessorPerformanceVisualization.pdb"
   "ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp"
