@@ -179,6 +179,30 @@ ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.s
 .PHONY : ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.s
 
+main/forms/mainwindow.o: main/forms/mainwindow.cpp.o
+.PHONY : main/forms/mainwindow.o
+
+# target to build an object file
+main/forms/mainwindow.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o
+.PHONY : main/forms/mainwindow.cpp.o
+
+main/forms/mainwindow.i: main/forms/mainwindow.cpp.i
+.PHONY : main/forms/mainwindow.i
+
+# target to preprocess a source file
+main/forms/mainwindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.i
+.PHONY : main/forms/mainwindow.cpp.i
+
+main/forms/mainwindow.s: main/forms/mainwindow.cpp.s
+.PHONY : main/forms/mainwindow.s
+
+# target to generate assembly for a file
+main/forms/mainwindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.s
+.PHONY : main/forms/mainwindow.cpp.s
+
 main/main.o: main/main.cpp.o
 .PHONY : main/main.o
 
@@ -203,30 +227,6 @@ main/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.s
 .PHONY : main/main.cpp.s
 
-main/mainwindow.o: main/mainwindow.cpp.o
-.PHONY : main/mainwindow.o
-
-# target to build an object file
-main/mainwindow.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/mainwindow.cpp.o
-.PHONY : main/mainwindow.cpp.o
-
-main/mainwindow.i: main/mainwindow.cpp.i
-.PHONY : main/mainwindow.i
-
-# target to preprocess a source file
-main/mainwindow.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/mainwindow.cpp.i
-.PHONY : main/mainwindow.cpp.i
-
-main/mainwindow.s: main/mainwindow.cpp.s
-.PHONY : main/mainwindow.s
-
-# target to generate assembly for a file
-main/mainwindow.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/mainwindow.cpp.s
-.PHONY : main/mainwindow.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -241,12 +241,12 @@ help:
 	@echo "... ProcessorPerformanceVisualization_autogen/mocs_compilation.o"
 	@echo "... ProcessorPerformanceVisualization_autogen/mocs_compilation.i"
 	@echo "... ProcessorPerformanceVisualization_autogen/mocs_compilation.s"
+	@echo "... main/forms/mainwindow.o"
+	@echo "... main/forms/mainwindow.i"
+	@echo "... main/forms/mainwindow.s"
 	@echo "... main/main.o"
 	@echo "... main/main.i"
 	@echo "... main/main.s"
-	@echo "... main/mainwindow.o"
-	@echo "... main/mainwindow.i"
-	@echo "... main/mainwindow.s"
 .PHONY : help
 
 

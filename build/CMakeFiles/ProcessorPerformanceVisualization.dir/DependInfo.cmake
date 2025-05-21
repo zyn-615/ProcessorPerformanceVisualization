@@ -10,8 +10,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "ProcessorPerformanceVisualization_autogen/timestamp" "custom" "ProcessorPerformanceVisualization_autogen/deps"
   "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp" "CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o.d"
+  "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp" "CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o" "gcc" "CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o.d"
   "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/main.cpp" "CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o" "gcc" "CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o.d"
-  "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/mainwindow.cpp" "CMakeFiles/ProcessorPerformanceVisualization.dir/main/mainwindow.cpp.o" "gcc" "CMakeFiles/ProcessorPerformanceVisualization.dir/main/mainwindow.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

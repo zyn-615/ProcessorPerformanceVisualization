@@ -13,8 +13,8 @@
 },
 {
   "directory": "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build",
-  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/mainwindow.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/mainwindow.cpp",
-  "file": "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/mainwindow.cpp",
-  "output": "CMakeFiles/ProcessorPerformanceVisualization.dir/main/mainwindow.cpp.o"
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp",
+  "file": "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp",
+  "output": "CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o"
 }
 ]

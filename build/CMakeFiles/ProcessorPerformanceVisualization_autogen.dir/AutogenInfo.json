@@ -166,9 +166,9 @@
 	"HEADERS" : 
 	[
 		[
-			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/mainwindow.h",
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.h",
 			"MU",
-			"FKWUBUMHKV/moc_mainwindow.cpp",
+			"TLBLHLWG6I/moc_mainwindow.cpp",
 			null
 		]
 	],
@@ -231,12 +231,12 @@
 	"SOURCES" : 
 	[
 		[
-			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/main.cpp",
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/mainwindow.cpp",
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/main.cpp",
 			"MU",
 			null
 		]
