@@ -337,6 +337,7 @@ CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qcursor.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qbitmap.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtabwidget.h \
+ /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QApplication \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qapplication.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreapplication.h \

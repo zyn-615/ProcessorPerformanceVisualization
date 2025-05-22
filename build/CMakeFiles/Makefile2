@@ -84,12 +84,12 @@ CMakeFiles/ProcessorPerformanceVisualization.dir/all: CMakeFiles/ProcessorPerfor
 CMakeFiles/ProcessorPerformanceVisualization.dir/all: CMakeFiles/ProcessorPerformanceVisualization_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=1,2,3,4,5 "Built target ProcessorPerformanceVisualization"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target ProcessorPerformanceVisualization"
 .PHONY : CMakeFiles/ProcessorPerformanceVisualization.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ProcessorPerformanceVisualization.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ProcessorPerformanceVisualization.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles 0
 .PHONY : CMakeFiles/ProcessorPerformanceVisualization.dir/rule
@@ -136,7 +136,7 @@ CMakeFiles/ProcessorPerformanceVisualization_autogen_timestamp_deps.dir/clean:
 CMakeFiles/ProcessorPerformanceVisualization_autogen.dir/all: CMakeFiles/ProcessorPerformanceVisualization_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization_autogen.dir/build.make CMakeFiles/ProcessorPerformanceVisualization_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization_autogen.dir/build.make CMakeFiles/ProcessorPerformanceVisualization_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=6 "Built target ProcessorPerformanceVisualization_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=7 "Built target ProcessorPerformanceVisualization_autogen"
 .PHONY : CMakeFiles/ProcessorPerformanceVisualization_autogen.dir/all
 
 # Build rule for subdir invocation for target.

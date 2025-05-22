@@ -3,6 +3,8 @@ ProcessorPerformanceVisualization_autogen/timestamp: \
 	/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake \
 	/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles/3.28.3/CMakeSystem.cmake \
 	/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/moc_predefs.h \
+	/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.cpp \
+	/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.h \
 	/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp \
 	/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.h \
 	/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/main.cpp \
@@ -536,5 +538,6 @@ ProcessorPerformanceVisualization_autogen/timestamp: \
 	/usr/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake \
 	/usr/share/cmake-3.28/Modules/Platform/Linux.cmake \
 	/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake \
+	/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.ui \
 	/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.ui \
 	/usr/bin/cmake

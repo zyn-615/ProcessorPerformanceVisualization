@@ -166,6 +166,12 @@
 	"HEADERS" : 
 	[
 		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.h",
+			"MU",
+			"TLBLHLWG6I/moc_chipwindow.cpp",
+			null
+		],
+		[
 			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.h",
 			"MU",
 			"TLBLHLWG6I/moc_mainwindow.cpp",
@@ -230,6 +236,11 @@
 	"SETTINGS_FILE" : "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles/ProcessorPerformanceVisualization_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.cpp",
+			"MU",
+			null
+		],
 		[
 			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp",
 			"MU",

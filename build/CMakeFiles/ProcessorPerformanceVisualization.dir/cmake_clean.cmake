@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "ProcessorPerformanceVisualization_autogen"
   "CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o"
   "CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o"
+  "CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o.d"
   "CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o"
   "CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o.d"
   "CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o"

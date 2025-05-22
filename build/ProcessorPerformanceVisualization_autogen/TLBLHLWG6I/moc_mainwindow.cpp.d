@@ -1,5 +1,6 @@
 /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/TLBLHLWG6I/moc_mainwindow.cpp: /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.h \
   /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/moc_predefs.h \
+  /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

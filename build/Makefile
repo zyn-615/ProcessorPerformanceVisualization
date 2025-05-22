@@ -179,6 +179,30 @@ ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.s
 .PHONY : ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.s
 
+main/forms/chipwindow.o: main/forms/chipwindow.cpp.o
+.PHONY : main/forms/chipwindow.o
+
+# target to build an object file
+main/forms/chipwindow.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o
+.PHONY : main/forms/chipwindow.cpp.o
+
+main/forms/chipwindow.i: main/forms/chipwindow.cpp.i
+.PHONY : main/forms/chipwindow.i
+
+# target to preprocess a source file
+main/forms/chipwindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.i
+.PHONY : main/forms/chipwindow.cpp.i
+
+main/forms/chipwindow.s: main/forms/chipwindow.cpp.s
+.PHONY : main/forms/chipwindow.s
+
+# target to generate assembly for a file
+main/forms/chipwindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.s
+.PHONY : main/forms/chipwindow.cpp.s
+
 main/forms/mainwindow.o: main/forms/mainwindow.cpp.o
 .PHONY : main/forms/mainwindow.o
 
@@ -241,6 +265,9 @@ help:
 	@echo "... ProcessorPerformanceVisualization_autogen/mocs_compilation.o"
 	@echo "... ProcessorPerformanceVisualization_autogen/mocs_compilation.i"
 	@echo "... ProcessorPerformanceVisualization_autogen/mocs_compilation.s"
+	@echo "... main/forms/chipwindow.o"
+	@echo "... main/forms/chipwindow.i"
+	@echo "... main/forms/chipwindow.s"
 	@echo "... main/forms/mainwindow.o"
 	@echo "... main/forms/mainwindow.i"
 	@echo "... main/forms/mainwindow.s"

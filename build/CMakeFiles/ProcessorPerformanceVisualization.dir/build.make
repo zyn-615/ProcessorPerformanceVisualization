@@ -118,11 +118,26 @@ CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.s: cm
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.s"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.s
 
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/flags.make
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o: /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.cpp
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.cpp
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.i
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.s
+
 # Object files for target ProcessorPerformanceVisualization
 ProcessorPerformanceVisualization_OBJECTS = \
 "CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o" \
 "CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o" \
-"CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o"
+"CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o" \
+"CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o"
 
 # External object files for target ProcessorPerformanceVisualization
 ProcessorPerformanceVisualization_EXTERNAL_OBJECTS =
@@ -130,6 +145,7 @@ ProcessorPerformanceVisualization_EXTERNAL_OBJECTS =
 ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o
 ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o
 ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o
+ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o
 ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/build.make
 ProcessorPerformanceVisualization: /usr/lib/x86_64-linux-gnu/libQt6Widgets.so.6.4.2
 ProcessorPerformanceVisualization: /usr/lib/x86_64-linux-gnu/libQt6Gui.so.6.4.2
@@ -137,7 +153,7 @@ ProcessorPerformanceVisualization: /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.4.2
 ProcessorPerformanceVisualization: /usr/lib/x86_64-linux-gnu/libGLX.so
 ProcessorPerformanceVisualization: /usr/lib/x86_64-linux-gnu/libOpenGL.so
 ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ProcessorPerformanceVisualization"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable ProcessorPerformanceVisualization"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ProcessorPerformanceVisualization.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

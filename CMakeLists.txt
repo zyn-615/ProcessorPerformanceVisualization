@@ -40,6 +40,7 @@ endif()
 add_executable(ProcessorPerformanceVisualization # Should match the project name or be your desired executable name
     main/main.cpp
     main/forms/mainwindow.cpp
+    main/forms/chipwindow.cpp
     # If you add more .cpp files, list them here
 )
 
