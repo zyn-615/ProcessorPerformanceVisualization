@@ -79,23 +79,19 @@ bool StatsLoader::loadStatistics()
                 QString key = parts[0].trimmed();
                 QString value = parts[1].trimmed();
                 
-                // 移除注释
                 if (value.contains("//")) {
                     value = value.split("//").first().trimmed();
                 }
                 
-                // 如果当前有组件上下文，添加到组件数据
                 if (!currentComponent.isEmpty()) {
                     currentStats.data[key] = value;
                 }
                 
-                // 同时将所有键值对添加到portTransmissions用于Bus数据
                 portTransmissions[key] = value;
             }
         }
     }
     
-    // 保存最后一个组件
     if (!currentComponent.isEmpty()) {
         statsData[currentComponent] = currentStats;
         qDebug() << "Parsed component:" << currentComponent << "with" << currentStats.data.size() << "data entries";

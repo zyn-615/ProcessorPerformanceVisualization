@@ -35,8 +35,7 @@ bool MainWindow::eventFilter(QObject *watched, QEvent *event)
                 chipWindow = new ChipWindow(this);
             }
             chipWindow->show();
-            // 可选：隐藏当前窗口
-            // this->hide();
+            this->hide();
             return true; // 事件已处理
         }
     }
