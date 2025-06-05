@@ -40,8 +40,23 @@ endif()
 add_executable(ProcessorPerformanceVisualization # Should match the project name or be your desired executable name
     main/main.cpp
     main/forms/mainwindow.cpp
-    main/forms/chipwindow.cpp
-    # If you add more .cpp files, list them here
+    # 移除旧的chipwindow.cpp，我们使用新版本
+    # main/forms/chipwindow.cpp
+    
+    # 新增的组件模块文件
+    main/src/components/ClickableItems.cpp
+    
+    # 新增的统计数据模块文件
+    main/src/statistics/StatsLoader.cpp
+    main/src/statistics/StatsDisplayer.cpp
+    main/src/statistics/StatsDisplayer2.cpp
+    
+    # 新增的图形模块文件
+    main/src/graphics/ChipRenderer.cpp
+    
+    # 新增的UI模块文件
+    main/src/ui/DataVisualizer.cpp
+    main/src/ui/ChipWindow.cpp
 )
 
 # Link Qt6 libraries

@@ -1,17 +1,17 @@
-#include "forms/mainwindow.h" // Your main window class
-#include "forms/chipwindow.h" // Chip window class
+#include "forms/mainwindow.h" // 主窗口类
+#include "src/ui/ChipWindow.h" // 新的芯片窗口路径
 #include <QApplication>
 
 int main(int argc, char *argv[])
 {
-    QApplication a(argc, argv); // Manages GUI application resources
+    QApplication a(argc, argv); // 管理GUI应用程序资源
     
-    MainWindow w;              // Create an instance of your main window
-    w.show();                  // Show the window
+    MainWindow w;              // 创建主窗口实例
+    w.show();                  // 显示窗口
     
-    // ChipWindow cw;              // Create an instance of chip window
-    // cw.show();                  // Show the chip window
+    // ChipWindow cw;              // 创建芯片窗口实例
+    // cw.show();                  // 显示芯片窗口
     
-    return a.exec();           // Start the application's event loop
+    return a.exec();           // 启动应用程序事件循环
 }
 

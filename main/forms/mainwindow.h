@@ -2,7 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include "chipwindow.h"
+#include "../src/ui/ChipWindow.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; } // Forward declaration for the UI class generated from mainwindow.ui

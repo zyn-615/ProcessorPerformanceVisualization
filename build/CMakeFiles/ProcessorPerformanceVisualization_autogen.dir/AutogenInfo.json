@@ -166,22 +166,52 @@
 	"HEADERS" : 
 	[
 		[
-			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.h",
-			"MU",
-			"TLBLHLWG6I/moc_chipwindow.cpp",
-			null
-		],
-		[
 			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.h",
 			"MU",
 			"TLBLHLWG6I/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/components/ClickableItems.h",
+			"MU",
+			"6HHT3AF6HQ/moc_ClickableItems.cpp",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/graphics/ChipRenderer.h",
+			"MU",
+			"TB4J5BNBBR/moc_ChipRenderer.cpp",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsDisplayer.h",
+			"MU",
+			"LKRY2EE7MU/moc_StatsDisplayer.cpp",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsLoader.h",
+			"MU",
+			"LKRY2EE7MU/moc_StatsLoader.cpp",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/ui/ChipWindow.h",
+			"MU",
+			"2TC6ETIYII/moc_ChipWindow.cpp",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/ui/DataVisualizer.h",
+			"MU",
+			"2TC6ETIYII/moc_DataVisualizer.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/include",
 	"MOC_COMPILATION_FILE" : "/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp",
-	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
 		[
@@ -216,7 +246,7 @@
 	"MOC_PATH_PREFIX" : false,
 	"MOC_PREDEFS_CMD" : 
 	[
-		"/usr/bin/g++",
+		"/usr/bin/c++",
 		"-std=gnu++17",
 		"-dM",
 		"-E",
@@ -237,17 +267,47 @@
 	"SOURCES" : 
 	[
 		[
-			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.cpp",
-			"MU",
-			null
-		],
-		[
 			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp",
 			"MU",
 			null
 		],
 		[
 			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/components/ClickableItems.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/graphics/ChipRenderer.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsDisplayer.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsDisplayer2.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsLoader.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/ui/ChipWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/ui/DataVisualizer.cpp",
 			"MU",
 			null
 		]

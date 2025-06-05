@@ -179,30 +179,6 @@ ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.s
 .PHONY : ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.s
 
-main/forms/chipwindow.o: main/forms/chipwindow.cpp.o
-.PHONY : main/forms/chipwindow.o
-
-# target to build an object file
-main/forms/chipwindow.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o
-.PHONY : main/forms/chipwindow.cpp.o
-
-main/forms/chipwindow.i: main/forms/chipwindow.cpp.i
-.PHONY : main/forms/chipwindow.i
-
-# target to preprocess a source file
-main/forms/chipwindow.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.i
-.PHONY : main/forms/chipwindow.cpp.i
-
-main/forms/chipwindow.s: main/forms/chipwindow.cpp.s
-.PHONY : main/forms/chipwindow.s
-
-# target to generate assembly for a file
-main/forms/chipwindow.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.s
-.PHONY : main/forms/chipwindow.cpp.s
-
 main/forms/mainwindow.o: main/forms/mainwindow.cpp.o
 .PHONY : main/forms/mainwindow.o
 
@@ -251,6 +227,174 @@ main/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.s
 .PHONY : main/main.cpp.s
 
+main/src/components/ClickableItems.o: main/src/components/ClickableItems.cpp.o
+.PHONY : main/src/components/ClickableItems.o
+
+# target to build an object file
+main/src/components/ClickableItems.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.o
+.PHONY : main/src/components/ClickableItems.cpp.o
+
+main/src/components/ClickableItems.i: main/src/components/ClickableItems.cpp.i
+.PHONY : main/src/components/ClickableItems.i
+
+# target to preprocess a source file
+main/src/components/ClickableItems.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.i
+.PHONY : main/src/components/ClickableItems.cpp.i
+
+main/src/components/ClickableItems.s: main/src/components/ClickableItems.cpp.s
+.PHONY : main/src/components/ClickableItems.s
+
+# target to generate assembly for a file
+main/src/components/ClickableItems.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.s
+.PHONY : main/src/components/ClickableItems.cpp.s
+
+main/src/graphics/ChipRenderer.o: main/src/graphics/ChipRenderer.cpp.o
+.PHONY : main/src/graphics/ChipRenderer.o
+
+# target to build an object file
+main/src/graphics/ChipRenderer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.o
+.PHONY : main/src/graphics/ChipRenderer.cpp.o
+
+main/src/graphics/ChipRenderer.i: main/src/graphics/ChipRenderer.cpp.i
+.PHONY : main/src/graphics/ChipRenderer.i
+
+# target to preprocess a source file
+main/src/graphics/ChipRenderer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.i
+.PHONY : main/src/graphics/ChipRenderer.cpp.i
+
+main/src/graphics/ChipRenderer.s: main/src/graphics/ChipRenderer.cpp.s
+.PHONY : main/src/graphics/ChipRenderer.s
+
+# target to generate assembly for a file
+main/src/graphics/ChipRenderer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.s
+.PHONY : main/src/graphics/ChipRenderer.cpp.s
+
+main/src/statistics/StatsDisplayer.o: main/src/statistics/StatsDisplayer.cpp.o
+.PHONY : main/src/statistics/StatsDisplayer.o
+
+# target to build an object file
+main/src/statistics/StatsDisplayer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.o
+.PHONY : main/src/statistics/StatsDisplayer.cpp.o
+
+main/src/statistics/StatsDisplayer.i: main/src/statistics/StatsDisplayer.cpp.i
+.PHONY : main/src/statistics/StatsDisplayer.i
+
+# target to preprocess a source file
+main/src/statistics/StatsDisplayer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.i
+.PHONY : main/src/statistics/StatsDisplayer.cpp.i
+
+main/src/statistics/StatsDisplayer.s: main/src/statistics/StatsDisplayer.cpp.s
+.PHONY : main/src/statistics/StatsDisplayer.s
+
+# target to generate assembly for a file
+main/src/statistics/StatsDisplayer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.s
+.PHONY : main/src/statistics/StatsDisplayer.cpp.s
+
+main/src/statistics/StatsDisplayer2.o: main/src/statistics/StatsDisplayer2.cpp.o
+.PHONY : main/src/statistics/StatsDisplayer2.o
+
+# target to build an object file
+main/src/statistics/StatsDisplayer2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.o
+.PHONY : main/src/statistics/StatsDisplayer2.cpp.o
+
+main/src/statistics/StatsDisplayer2.i: main/src/statistics/StatsDisplayer2.cpp.i
+.PHONY : main/src/statistics/StatsDisplayer2.i
+
+# target to preprocess a source file
+main/src/statistics/StatsDisplayer2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.i
+.PHONY : main/src/statistics/StatsDisplayer2.cpp.i
+
+main/src/statistics/StatsDisplayer2.s: main/src/statistics/StatsDisplayer2.cpp.s
+.PHONY : main/src/statistics/StatsDisplayer2.s
+
+# target to generate assembly for a file
+main/src/statistics/StatsDisplayer2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.s
+.PHONY : main/src/statistics/StatsDisplayer2.cpp.s
+
+main/src/statistics/StatsLoader.o: main/src/statistics/StatsLoader.cpp.o
+.PHONY : main/src/statistics/StatsLoader.o
+
+# target to build an object file
+main/src/statistics/StatsLoader.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.o
+.PHONY : main/src/statistics/StatsLoader.cpp.o
+
+main/src/statistics/StatsLoader.i: main/src/statistics/StatsLoader.cpp.i
+.PHONY : main/src/statistics/StatsLoader.i
+
+# target to preprocess a source file
+main/src/statistics/StatsLoader.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.i
+.PHONY : main/src/statistics/StatsLoader.cpp.i
+
+main/src/statistics/StatsLoader.s: main/src/statistics/StatsLoader.cpp.s
+.PHONY : main/src/statistics/StatsLoader.s
+
+# target to generate assembly for a file
+main/src/statistics/StatsLoader.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.s
+.PHONY : main/src/statistics/StatsLoader.cpp.s
+
+main/src/ui/ChipWindow.o: main/src/ui/ChipWindow.cpp.o
+.PHONY : main/src/ui/ChipWindow.o
+
+# target to build an object file
+main/src/ui/ChipWindow.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.o
+.PHONY : main/src/ui/ChipWindow.cpp.o
+
+main/src/ui/ChipWindow.i: main/src/ui/ChipWindow.cpp.i
+.PHONY : main/src/ui/ChipWindow.i
+
+# target to preprocess a source file
+main/src/ui/ChipWindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.i
+.PHONY : main/src/ui/ChipWindow.cpp.i
+
+main/src/ui/ChipWindow.s: main/src/ui/ChipWindow.cpp.s
+.PHONY : main/src/ui/ChipWindow.s
+
+# target to generate assembly for a file
+main/src/ui/ChipWindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.s
+.PHONY : main/src/ui/ChipWindow.cpp.s
+
+main/src/ui/DataVisualizer.o: main/src/ui/DataVisualizer.cpp.o
+.PHONY : main/src/ui/DataVisualizer.o
+
+# target to build an object file
+main/src/ui/DataVisualizer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.o
+.PHONY : main/src/ui/DataVisualizer.cpp.o
+
+main/src/ui/DataVisualizer.i: main/src/ui/DataVisualizer.cpp.i
+.PHONY : main/src/ui/DataVisualizer.i
+
+# target to preprocess a source file
+main/src/ui/DataVisualizer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.i
+.PHONY : main/src/ui/DataVisualizer.cpp.i
+
+main/src/ui/DataVisualizer.s: main/src/ui/DataVisualizer.cpp.s
+.PHONY : main/src/ui/DataVisualizer.s
+
+# target to generate assembly for a file
+main/src/ui/DataVisualizer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProcessorPerformanceVisualization.dir/build.make CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.s
+.PHONY : main/src/ui/DataVisualizer.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -265,15 +409,33 @@ help:
 	@echo "... ProcessorPerformanceVisualization_autogen/mocs_compilation.o"
 	@echo "... ProcessorPerformanceVisualization_autogen/mocs_compilation.i"
 	@echo "... ProcessorPerformanceVisualization_autogen/mocs_compilation.s"
-	@echo "... main/forms/chipwindow.o"
-	@echo "... main/forms/chipwindow.i"
-	@echo "... main/forms/chipwindow.s"
 	@echo "... main/forms/mainwindow.o"
 	@echo "... main/forms/mainwindow.i"
 	@echo "... main/forms/mainwindow.s"
 	@echo "... main/main.o"
 	@echo "... main/main.i"
 	@echo "... main/main.s"
+	@echo "... main/src/components/ClickableItems.o"
+	@echo "... main/src/components/ClickableItems.i"
+	@echo "... main/src/components/ClickableItems.s"
+	@echo "... main/src/graphics/ChipRenderer.o"
+	@echo "... main/src/graphics/ChipRenderer.i"
+	@echo "... main/src/graphics/ChipRenderer.s"
+	@echo "... main/src/statistics/StatsDisplayer.o"
+	@echo "... main/src/statistics/StatsDisplayer.i"
+	@echo "... main/src/statistics/StatsDisplayer.s"
+	@echo "... main/src/statistics/StatsDisplayer2.o"
+	@echo "... main/src/statistics/StatsDisplayer2.i"
+	@echo "... main/src/statistics/StatsDisplayer2.s"
+	@echo "... main/src/statistics/StatsLoader.o"
+	@echo "... main/src/statistics/StatsLoader.i"
+	@echo "... main/src/statistics/StatsLoader.s"
+	@echo "... main/src/ui/ChipWindow.o"
+	@echo "... main/src/ui/ChipWindow.i"
+	@echo "... main/src/ui/ChipWindow.s"
+	@echo "... main/src/ui/DataVisualizer.o"
+	@echo "... main/src/ui/DataVisualizer.i"
+	@echo "... main/src/ui/DataVisualizer.s"
 .PHONY : help
 
 

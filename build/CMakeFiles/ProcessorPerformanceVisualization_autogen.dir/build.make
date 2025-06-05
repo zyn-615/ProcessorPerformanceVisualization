@@ -72,7 +72,7 @@ ProcessorPerformanceVisualization_autogen/timestamp: /usr/lib/qt6/libexec/moc
 ProcessorPerformanceVisualization_autogen/timestamp: /usr/lib/qt6/libexec/uic
 ProcessorPerformanceVisualization_autogen/timestamp: CMakeFiles/ProcessorPerformanceVisualization_autogen.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target ProcessorPerformanceVisualization"
-	/usr/bin/cmake -E cmake_autogen /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles/ProcessorPerformanceVisualization_autogen.dir/AutogenInfo.json Debug
+	/usr/bin/cmake -E cmake_autogen /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles/ProcessorPerformanceVisualization_autogen.dir/AutogenInfo.json ""
 	/usr/bin/cmake -E touch /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/timestamp
 
 ProcessorPerformanceVisualization_autogen: CMakeFiles/ProcessorPerformanceVisualization_autogen

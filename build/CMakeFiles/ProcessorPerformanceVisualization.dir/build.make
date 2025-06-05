@@ -73,71 +73,161 @@ ProcessorPerformanceVisualization_autogen/timestamp: /usr/lib/qt6/libexec/moc
 ProcessorPerformanceVisualization_autogen/timestamp: /usr/lib/qt6/libexec/uic
 ProcessorPerformanceVisualization_autogen/timestamp: CMakeFiles/ProcessorPerformanceVisualization.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target ProcessorPerformanceVisualization"
-	/usr/bin/cmake -E cmake_autogen /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles/ProcessorPerformanceVisualization_autogen.dir/AutogenInfo.json Debug
+	/usr/bin/cmake -E cmake_autogen /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles/ProcessorPerformanceVisualization_autogen.dir/AutogenInfo.json ""
 	/usr/bin/cmake -E touch /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/timestamp
 
 CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/flags.make
 CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o: ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp
 CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp
 
 CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/flags.make
 CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o: /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/main.cpp
 CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/main.cpp
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/main.cpp
 
 CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/main.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/main.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.i
 
 CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/main.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/main.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.s
 
 CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/flags.make
 CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o: /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp
 CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp
 
 CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.i
 
 CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/mainwindow.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.s
 
-CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/flags.make
-CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o: /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.cpp
-CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.cpp
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/flags.make
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.o: /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/components/ClickableItems.cpp
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/components/ClickableItems.cpp
 
-CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.i
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/components/ClickableItems.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.i
 
-CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/forms/chipwindow.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.s
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/components/ClickableItems.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.s
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/flags.make
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.o: /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsLoader.cpp
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsLoader.cpp
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsLoader.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.i
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsLoader.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.s
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/flags.make
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.o: /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsDisplayer.cpp
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsDisplayer.cpp
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsDisplayer.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.i
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsDisplayer.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.s
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/flags.make
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.o: /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsDisplayer2.cpp
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsDisplayer2.cpp
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsDisplayer2.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.i
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/statistics/StatsDisplayer2.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.s
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/flags.make
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.o: /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/graphics/ChipRenderer.cpp
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/graphics/ChipRenderer.cpp
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/graphics/ChipRenderer.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.i
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/graphics/ChipRenderer.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.s
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/flags.make
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.o: /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/ui/DataVisualizer.cpp
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/ui/DataVisualizer.cpp
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/ui/DataVisualizer.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.i
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/ui/DataVisualizer.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.s
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/flags.make
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.o: /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/ui/ChipWindow.cpp
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.o: CMakeFiles/ProcessorPerformanceVisualization.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.o -MF CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.o.d -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.o -c /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/ui/ChipWindow.cpp
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/ui/ChipWindow.cpp > CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.i
+
+CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/main/src/ui/ChipWindow.cpp -o CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.s
 
 # Object files for target ProcessorPerformanceVisualization
 ProcessorPerformanceVisualization_OBJECTS = \
 "CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o" \
 "CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o" \
 "CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o" \
-"CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o"
+"CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.o" \
+"CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.o" \
+"CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.o" \
+"CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.o" \
+"CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.o" \
+"CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.o" \
+"CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.o"
 
 # External object files for target ProcessorPerformanceVisualization
 ProcessorPerformanceVisualization_EXTERNAL_OBJECTS =
@@ -145,7 +235,13 @@ ProcessorPerformanceVisualization_EXTERNAL_OBJECTS =
 ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/ProcessorPerformanceVisualization_autogen/mocs_compilation.cpp.o
 ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/main/main.cpp.o
 ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/mainwindow.cpp.o
-ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/main/forms/chipwindow.cpp.o
+ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/components/ClickableItems.cpp.o
+ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsLoader.cpp.o
+ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer.cpp.o
+ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/statistics/StatsDisplayer2.cpp.o
+ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/graphics/ChipRenderer.cpp.o
+ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/DataVisualizer.cpp.o
+ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/main/src/ui/ChipWindow.cpp.o
 ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/build.make
 ProcessorPerformanceVisualization: /usr/lib/x86_64-linux-gnu/libQt6Widgets.so.6.4.2
 ProcessorPerformanceVisualization: /usr/lib/x86_64-linux-gnu/libQt6Gui.so.6.4.2
@@ -153,7 +249,7 @@ ProcessorPerformanceVisualization: /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.4.2
 ProcessorPerformanceVisualization: /usr/lib/x86_64-linux-gnu/libGLX.so
 ProcessorPerformanceVisualization: /usr/lib/x86_64-linux-gnu/libOpenGL.so
 ProcessorPerformanceVisualization: CMakeFiles/ProcessorPerformanceVisualization.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable ProcessorPerformanceVisualization"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/zyn/program/2025-Spring/ProcessorPerformanceVisualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable ProcessorPerformanceVisualization"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ProcessorPerformanceVisualization.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
