@@ -101,7 +101,7 @@ ProcessorPerformanceVisualization/
         *   功能: 定义 `ComponentStats` 结构体。
         *   实现: 该结构体用于存储单个硬件组件的统计信息，通常包含一个 `QString name` (组件名)，一个 `QMap<QString, QString> data` (存储从文件中读取的原始键值对统计数据)，以及一个 `QMap<QString, double> percentages` (存储计算得到的百分比形式的统计数据，如命中率)。
     *   `StatsLoader.h`, `StatsLoader.cpp`:
-        *   功能: 专注于从 `statistic.txt` 和（可能）`setup.txt` 加载和解析数据。
+        *   功能: 专注于从 `statistic.txt` 和 `setup.txt` 加载和解析数据。
         *   实现: `StatsLoader` 类包含 `loadStatistics()` 方法来读取文件，逐行解析，识别组件块和键值对，并将解析结果存入 `ComponentStats` 对象中，最终形成一个 `QMap<QString, ComponentStats>` 的数据集合。它还包含 `calculateDerivedStats()` 方法来计算如命中率、IPC等指标。 (注意：如前所述，`ChipWindow.cpp` 中也包含了一个完整的 `loadStatistics` 实现，这可能表明 `StatsLoader` 类是早期设计或辅助类，核心加载逻辑最终被整合进了 `ChipWindow` 以简化依赖。)
     *   `StatsDisplayer.h`, `StatsDisplayer.cpp`, `StatsDisplayer2.cpp`:
         *   功能: 可能包含用于辅助格式化或显示统计数据的工具类或函数。

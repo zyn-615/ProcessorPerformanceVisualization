@@ -9,9 +9,6 @@ int main(int argc, char *argv[])
     MainWindow w;              // 创建主窗口实例
     w.show();                  // 显示窗口
     
-    // ChipWindow cw;              // 创建芯片窗口实例
-    // cw.show();                  // 显示芯片窗口
-    
     return a.exec();           // 启动应用程序事件循环
 }
 
